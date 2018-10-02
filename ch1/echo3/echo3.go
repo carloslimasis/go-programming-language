@@ -1,4 +1,4 @@
-// Echo3 exibe seus argumentos de linha de comando
+// Echo3 show command line arguments
 package main
 
 import (
